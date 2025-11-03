@@ -9,6 +9,3 @@ class puntosExtra(beneficios):
 
 class tutorias(beneficios):
     pass
-
-
-
