@@ -21,7 +21,7 @@ profesor1 = profesor(nombre="Ignacio",
                      password="165533", 
                      id=1)
 
-profesor1.estudiante1.append(estudiante1)
+profesor1.estudiante.append(estudiante1)
 
 print("Tarea asignada")
 
